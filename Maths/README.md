@@ -5,3 +5,5 @@ Books I follow:
 - CBSE NCERT,
 - Art of Problem Solving,
 - AMC 10.
+
+> note for self: *messy notes are ok. Short ones too, doing problems is more important than documenting every small change.*
