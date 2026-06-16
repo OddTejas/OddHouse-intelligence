@@ -1,6 +1,6 @@
 # Shortcut method for radicals
 **Problem:** $\sqrt{55-10\sqrt{10}}$
-We need to convert the coeffiecent of the inner root to be 2. This effectively makes finding two magical numbers $u,v$ such that $\sqrt{u} \pm \sqrt{v}$ where $ \sqrt{(u+v)\pm \sqrt{uv}} = \sqrt{u}\pm \sqrt{v} $ 
+We need to convert the coeffiecent of the inner root to be 2. This effectively makes finding two magical numbers $u,v$ such that $\sqrt{u} \pm \sqrt{v}$ where $ \sqrt{(u+v)\pm 2\sqrt{uv}} = |\sqrt{u}\pm \sqrt{v} |$ 
 ## why?
 This works beacuse we transfromed it into a quaadratic equation where we know the relation between the sum and product of the zeros of the said qudratic.
 $$ (\sqrt{(u+v)\pm 2\sqrt{uv}})^2 = (\sqrt{u}\pm \sqrt{v})^2 $$
